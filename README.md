@@ -1,2 +1,2 @@
 # resume
-Ruby's resume
+Ruby Rose's resume
